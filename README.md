@@ -1,0 +1,1 @@
+This is the GitHub of NUS High School's Robotics Club! It contains a compilation of resources we have gathered from the internet (including our own self-made resources) on Lego Robotics, Arduino, Vex, Engineering etc.
